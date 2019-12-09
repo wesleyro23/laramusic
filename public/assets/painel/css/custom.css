@@ -1,0 +1,149 @@
+/* Helpers*/
+.clear{clear: both;}
+/*Resets*/
+a:hover{text-decoration: none}
+
+/*Colors*/
+
+/*Fonts Size*/
+
+/*BackGrounds*/
+
+/* Layout*/
+.logo{
+    width: 100%;
+    margin-top: 20px;
+}
+.menu{
+    background: #fb503b;
+    margin: 0px;
+    padding: 0px;
+}
+ul.menu{
+    list-style: none;
+    width: 100%;
+    margin: 0px;
+    padding: 12px;
+}
+ul.menu li{
+    text-align: center;
+}
+ul.menu li a{}
+img.img-menu{
+    max-width: 100px;
+}
+ul.menu li h1{
+    font-size: 18px;
+    margin: 4px;
+    color: #FFF;
+    font-weight: bold;
+}
+
+div.relatorios{}
+ul.relatorios{
+    float: left;
+    width: 100%;
+    list-style: none;
+    margin: 10px 0px;
+}
+ul.relatorios h1{
+    color: #fff;
+    font-size: 17px;
+}
+ul.relatorios li a{
+    background: #fb503b;
+    margin: 14px 0px;
+    float: left;
+    width: 100%;
+    padding: 14px;
+}
+
+.actions{
+    background: #d28e86;
+}
+a.add{
+    background: #fb503b;
+    padding: 10px;
+    float: left;
+    margin: 5px;
+    color: #fff;
+    border-radius: 4px;
+}
+form.form-search{
+    float: left;
+    margin: 9px;
+}
+
+/*Relatorios*/
+.music{
+    background: #072d88;
+    padding: 7px;
+    color: #fff;
+    border-radius: 4px;
+    margin: 4px;
+}
+.edit{
+    background: #385;
+    padding: 7px;
+    color: #fff;
+    border-radius: 4px;
+    margin: 4px;
+}
+.delete{
+    background: #fb503b;
+    padding: 8px 10px;
+    color: #fff;
+    border-radius: 4px;
+    margin: 4px;
+}
+
+/*form*/
+h1.titulo{
+    color: #FC503B;
+    font-size: 20px;
+}
+
+/*Footer*/
+.footer{
+    background: #555;
+    padding: 20px;
+    margin-top: 20px;
+}
+.text-footer{
+    color: #fff;
+    font-weight: bold;
+    font-size: 11px;
+}
+
+/*Social*/
+.social{}
+.social a{
+    color: #fff;
+    font-size: 20px;
+    margin: 6px;
+}
+
+/*Login*/
+div.login{
+    max-width: 500px;
+    margin: 70px auto;
+    background: #f7d8d5;
+    border: 1px solid #fb503b;
+}
+form.login{
+    padding: 10px;
+}
+.login-header{
+    text-align: center;
+    padding: 10px;
+    background: #fb503b;
+}
+img.logo-login{max-width: 150px;}
+button.btn-login{
+    width: 100%;
+}
+a.recupear{
+    font-size: 12px;
+    float: right;
+    color: #d9534f;
+}
